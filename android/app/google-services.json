@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230272051010",
+    "project_id": "inventory-management-f35fb",
+    "storage_bucket": "inventory-management-f35fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230272051010:android:ce9321ab2793b2d4210adb",
+        "android_client_info": {
+          "package_name": "com.example.office_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8N4h1JwW9fYAiQfGcTjuxfEnjiFuuZgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
